@@ -1,0 +1,1 @@
+This requires the `numpy`, `matplotlib`, and `pandas` libs. Because I'm lazy, direct editing of the code is required to change parameters. Proper documentation will be provided at some date, but the code isn't too hard to figure out as is.
